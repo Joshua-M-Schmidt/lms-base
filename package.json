@@ -20,6 +20,7 @@
     "@payloadcms/richtext-lexical": "beta",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.1",
+    "jotai": "^2.8.3",
     "next": "15.0.0-rc.0",
     "payload": "beta",
     "react": "^19.0.0-rc-f994737d14-20240522",
@@ -30,9 +31,12 @@
     "@types/node": "^20.12.12",
     "@types/react": "npm:types-react@19.0.0-beta.2",
     "@types/react-dom": "npm:types-react-dom@19.0.0-beta.2",
+    "autoprefixer": "^10.4.19",
     "dotenv": "^16.4.5",
     "eslint": "^8",
     "eslint-config-next": "^14.2.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
     "typescript": "^5.4.5"
   },
   "engines": {
